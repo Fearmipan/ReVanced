@@ -8,7 +8,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 [YouTube]
 build-mode = "both"
 excluded-patches = ""
-included-patches = "'Enable slide to seek'"
+included-patches = ""
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
