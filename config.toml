@@ -54,6 +54,7 @@ build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 arch = "arm64-v8a"
 included-patches = "'Custom branding name for YouTube Music'"
+version = "auto"
 
 [YouTube-Extended]
 enabled = true
@@ -65,3 +66,4 @@ rv-brand = "ReVanced Extended"
 build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 included-patches = "'Custom Shorts action buttons' 'Custom branding name for YouTube'"
+version = "auto"
